@@ -16,7 +16,7 @@
 <br/>
 
 ## 知识库内容
-- 国内开源社区：https://github.com/Andywli/opensource-knowledge/blob/main/Community.md
+- 开源社区：https://github.com/Andywli/opensource-knowledge/blob/main/Community.md
 - 开源书籍
 - 开源活动
 - 其他
