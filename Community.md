@@ -4,9 +4,9 @@
 - **CSDN**：专业的开发者社区 https://www.csdn.net/
 - **InfoQ**：实践驱动的社区资讯站点 https://www.infoq.cn/
 - **Gitee**：基于Git的代码托管和研发协作平台 https://gitee.com/
-- **开源中国**：https://www.oschina.net/  
-- **SegmentFault思否**：https://segmentfault.com/
-- 
+- **开源中国**：领先的中文开源技术社区 https://www.oschina.net/  
+- **SegmentFault思否**：中国领先的开发者技术社区 https://segmentfault.com/
+
 
 
 <br/>
@@ -117,5 +117,3 @@ freeCodeCamp.org 自 2014 年成立以来，以“帮助人们免费学习编程
 ## 垂直技术类
 - .Net中国社区：https://dotnet-china.com/
 - AI研习社：https://www.yanxishe.com/
-- 
-- 
