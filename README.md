@@ -17,6 +17,6 @@
 
 ## 知识库内容
 - 开源社区：https://github.com/Andywli/opensource-knowledge/blob/main/Community.md
-- 开源书籍：https://github.com/Andywli/opensource-knowledge/tree/main/docs
+- 行业报告：https://github.com/Andywli/opensource-knowledge/tree/main/docs
 - 开源活动
 - 其他
