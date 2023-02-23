@@ -15,7 +15,7 @@
 因此我创建了这个项目，把自己在学习过程中收集到的信息都贡献出来。欢迎对开源感兴趣的同学一起参与，共同建设这个项目。  
 <br/>
 
-## 知识库内容
+## 内容整合
 - 开源社区：https://github.com/Andywli/opensource-knowledge/blob/main/Community.md
 - 行业报告：https://github.com/Andywli/opensource-knowledge/tree/main/docs
 - 开源活动
