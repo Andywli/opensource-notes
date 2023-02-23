@@ -1,4 +1,4 @@
-# OpenSource Knowledge 开源知识库
+# OpenSource Notes 开源笔记
 
 ## 缘起
 开源，我理解包含了三个方面：  
